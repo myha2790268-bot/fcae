@@ -1,0 +1,9 @@
+NSB Page Manager (NSB Group) — CODEx START
+
+1) Giai nen file ZIP.
+2) Mo thu muc nay trong Codex (phai thay AGENTS.md).
+3) Dan noi dung file 00_CODEX_MASTER_PROMPT.md vao Codex.
+4) Codex bat dau tu M0+M1; kiem tra PROGRESS.md sau moi dot.
+5) Xem truoc giao dien: mo ui_preview/index.html.
+
+Luu y: day la FULL BLUEPRINT + UI DEMO + MOCK DATA, chua la app .exe hay VPS co the dang that.
